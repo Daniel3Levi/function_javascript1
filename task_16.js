@@ -21,5 +21,5 @@ const get_chars_in_reverse_from_pos_in_skip = (str, n_pos, n_skip) => {
     return new_str;
 }
 
-let result = get_chars_in_reverse_from_pos_in_skip("danieli", 5,2); //danie // end 
+let result = get_chars_in_reverse_from_pos_in_skip("daniel", 5,2); //danie // end 
 l(result);
