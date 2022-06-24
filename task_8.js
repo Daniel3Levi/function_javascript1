@@ -21,4 +21,4 @@ const str_skipping = (str,pos,skip) => {
 };
 
 
-console.log(str_skipping('danielieliadi',3,2)); 
+console.log(str_skipping('helloworld',3,2)); 
