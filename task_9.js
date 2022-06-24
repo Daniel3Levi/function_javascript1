@@ -24,4 +24,4 @@ const smaller_chars = (str, c_max) => {
 
 };
 
-console.log(smaller_chars('danielieliadi', 'e'))
+console.log(smaller_chars('helloworld', 'e'))
