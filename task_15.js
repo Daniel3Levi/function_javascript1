@@ -15,5 +15,5 @@ const get_reverse_str_from_pos = (str, n_pos) => {
     return str;
 };
 
-let result = get_reverse_str_from_pos("danieli",2);
+let result = get_reverse_str_from_pos("daniel",2);
 l(result);
