@@ -18,5 +18,5 @@ const get_all_chars_from_pos = (str,pos) => {
     return str;
 };
 
-let result = get_all_chars_from_pos("1234567",3); // nielida
+let result = get_all_chars_from_pos("1234567",3); 
 l(result);
