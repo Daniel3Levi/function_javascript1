@@ -16,5 +16,5 @@ const get_looping_str = (str,n_loop) => {
     return str;
 };
 
-let result = get_looping_str("danieli", 3);
+let result = get_looping_str("daniel", 3);
 l(result);
